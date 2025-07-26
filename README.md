@@ -2,7 +2,7 @@
 
 Welcome to **Caffiora** — a modern, responsive coffee shop website built with HTML, CSS, and JavaScript. This project is designed to showcase a coffee shop's menu, products, reviews, contact information, and blog in a visually appealing and user-friendly way.
 
-![Caffiora Banner](Images/header.png)
+
 
 ---
 
@@ -46,11 +46,10 @@ CAFFIORA/
 
 ---
 
-## 📸 Screenshots
 
-| Home Page | Menu Section | Contact Form |
-|-----------|--------------|--------------|
-| ![Home](Images/homee.jpg) | ![Menu](Images/Menu/Bagels.jpeg) | ![Contact](Images/header2.png) |
+## �️ Landing Page
+
+> *(Insert a screenshot of your landing page here, e.g. `Images/landing-page.png`)*
 
 ---
 
