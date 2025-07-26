@@ -47,9 +47,10 @@ CAFFIORA/
 ---
 
 
-## �️ Landing Page
 
-> *(Insert a screenshot of your landing page here, e.g. `Images/landing-page.png`)*
+## 🖼️ Landing Page
+
+![Landing Page](Images/LandingPage.png)
 
 ---
 
